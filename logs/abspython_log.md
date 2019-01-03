@@ -9,3 +9,10 @@
 
 1. 30 seconds of code is a great place for find JavaScript code snippets which are great for both beginner and advanced coders. Link : https://30secondsofcode.org/index
 2. Kallaway's codepen have a great projects to begin with as a beginner. Link : https://codepen.io/kallaway/
+
+### Day 1: January 3, 2019 
+
+**Today's Progress**: Still continuing the basic learning and also started [Automation using Python](https://automatetheboringstuff.com/).
+
+**Thoughts:** The freeCodeCamp course have a strong curriculum and takes more time than ordinary courses. Also the automation by python will be literally easier for me as I have some experience in it.
+
