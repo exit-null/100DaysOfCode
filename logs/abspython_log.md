@@ -16,3 +16,14 @@
 
 **Thoughts:** The freeCodeCamp course have a strong curriculum and takes more time than ordinary courses. Also the automation by python will be literally easier for me as I have some experience in it.
 
+### Day 2: January 4, 2019 
+
+**Today's Progress**: Learned functions in J.S and learning Regex expression in Python.
+
+**Thoughts:** Didn't know that 90% of Internet is built on JavaScript!! BTW Regex expression is a great way to search elements. Also git push and git pull is more attractive in Hyper[My terminal] after using ``space-pull`` and ``gitrocket``, as they give rocket animations :)
+
+### Day 3: January 5, 2019 
+
+**Today's Progress**: Learning conditional logic and still continuing Regex.
+
+**Thoughts:** Still thinking why Regex is not included in our KTU syllabus. Many beauties like Regex are often hidden . 
