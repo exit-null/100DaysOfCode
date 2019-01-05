@@ -12,3 +12,15 @@
 
 **Thoughts:** zip( ) function inside a loop can create nested lists which are kinda annoying to work with.
 
+### Day 2: January 4, 2019
+
+**Today's Progress**: Rewatched 3blue1brown's video on neural networks
+
+**Thoughts:** Was tired after the exam. Couldn't code the day before too.
+
+### Day 3: January 5, 2019
+
+**Today's Progress**: More of lists and nested lists
+
+**Thoughts:** Wrote a function to convert nested lists to flat ones. Donno if it'll work in every combination of nested lists.
+
