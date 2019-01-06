@@ -24,3 +24,8 @@
 
 **Thoughts:** Wrote a function to convert nested lists to flat ones. Donno if it'll work in every combination of nested lists.
 
+### Day 4: January 6, 2019
+
+**Today's Progress**: Worked on android app, and also spent some time practicing competetive programming.
+
+**Thoughts:** Realised that you can input a string in python freely, even if it contains special characters, but in Java's Scanner object, the special characters are not being read.
