@@ -29,3 +29,15 @@
 **Today's Progress**: Worked on android app, and also spent some time practicing competetive programming.
 
 **Thoughts:** Realised that you can input a string in python freely, even if it contains special characters, but in Java's Scanner object, the special characters are not being read.
+
+### Day 5: January 7, 2019
+
+**Today's Progress**: Still working on the android app. Added the select feature, without causing any conflicts with other functions.
+
+**Thoughts:** No problem is un-solvable if you think hard enough. :)
+
+### Day 6: January 8, 2019
+
+**Today's Progress**: Sprint on the android app, coded a bunch of functions. Delete button on select, About Activity, and a few design changes.
+
+**Thoughts:** Spent some good time coding today! Also, realised that the "cannot resolve symbol R" error occurs in android when there is an error in any of the layout files.
