@@ -41,3 +41,17 @@
 **Today's Progress**: Sprint on the android app, coded a bunch of functions. Delete button on select, About Activity, and a few design changes.
 
 **Thoughts:** Spent some good time coding today! Also, realised that the "cannot resolve symbol R" error occurs in android when there is an error in any of the layout files.
+
+### Day 7 : 9 January, 2019
+
+**Today's Progress**: Started working on a tour for first time users.
+
+### Day 8 : 10 January, 2019 
+
+**Today's Progress**: Still working on the tour.
+
+### Day 9 : 15 January, 2019 
+
+**Today's Progress**: Finished up the tour.
+
+**Thoughts:**  Couldn't code/log for a few days due to finals. Exams are over hopefully and I can now spend more time learning!
