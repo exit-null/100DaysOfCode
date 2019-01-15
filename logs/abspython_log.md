@@ -27,3 +27,9 @@
 **Today's Progress**: Learning conditional logic and still continuing Regex.
 
 **Thoughts:** Still thinking why Regex is not included in our KTU syllabus. Many beauties like Regex are often hidden . 
+
+
+
+## Sorry guys, due to the exams and laziness , I've decided to give up the log.
+
+### May try to give logging after exams..
