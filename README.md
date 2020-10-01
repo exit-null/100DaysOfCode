@@ -15,4 +15,5 @@
 * [Abhijith Sheheer](https://github.com/abspython)
 * [Subin Siby](https://github.com/subins2000)
 * [Sreeram Venkitesh](https://github.com/fillerInk)
+* [Sayan Banerjee](https://github.com/exit-null)
 
